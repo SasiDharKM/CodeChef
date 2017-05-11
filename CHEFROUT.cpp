@@ -20,7 +20,7 @@ int main() {
 		len = strlen(s);
 		check = 1;
 		for( i = 0; i<len-1 && check==1; i++) {
-			if(s[i]-s[i+1] > 0)
+			if(s[i] > s[i+1])
 				check = 0;
 		}
 
