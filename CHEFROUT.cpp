@@ -1,3 +1,11 @@
+/*input
+5
+CES
+CS
+CCC
+SC
+ECCC
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
