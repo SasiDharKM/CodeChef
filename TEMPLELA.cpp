@@ -37,3 +37,7 @@ int main() {
         if(check==0){
             cout<<"yes"<<endl;
         }
+    }
+
+    return 0;
+}
